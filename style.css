@@ -15,7 +15,7 @@
 .nav-logo{
     height: 50px;
     width: 120px;
-    background-image: url("amazon1.png");
+    background-image: url("images/amazon1.png");
     background-size:contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -144,17 +144,17 @@
     animation-iteration-count:infinite;
     animation-direction: alternate-reverse;
     background-size: cover;
-    background-image: url("cover1.jpg");
+    background-image: url("images/cover1.jpg");
     
 }
 @keyframes coverimage {
     
-    0% {background-image: url("cover2.jpg");}
-    20% {background-image: url("cover3.jpg");}
-    40% {background-image: url("cover4.jpg");}
-    60% {background-image: url("cover5.jpg");}
-    80% {background-image: url("cover6.jpg");}
-    100% {background-image: url("cover7.jpg");}
+    0% {background-image: url("images/cover2.jpg");}
+    20% {background-image: url("images/cover3.jpg");}
+    40% {background-image: url("images/cover4.jpg");}
+    60% {background-image: url("images/cover5.jpg");}
+    80% {background-image: url("images/cover6.jpg");}
+    100% {background-image: url("images/cover7.jpg");}
 
 }
 .cards
@@ -191,28 +191,28 @@ margin-left: 0px;
     
 height: 102px;
 width:163px;
-background-image: url(main_1.jpg);
+background-image: url("images/main_1.jpg");
 margin: 10px;}
 
 
 .image2{
 height: 102px;
 width:163px;
-background-image: url(main_2.jpg);
+background-image: url("images/main_2.jpg");
 margin: 10px;
 
 }
 .image3{
 height: 102px;
 width:163px;
-background-image: url(main_3.jpg);
+background-image: url("images/main_3.jpg");
 margin: 10px;
 
 }
 .image4{
 height: 102px;
 width:163px;
-background-image: url(main_4.jpg);
+background-image: url("images/main_4.jpg");
 margin: 10px;
 
 }
@@ -221,28 +221,28 @@ margin: 10px;
     
     height: 102px;
     width:163px;
-    background-image: url(c2_1.jpg);
+    background-image: url("images/c2_1.jpg");
     margin: 10px;}
     
     
     .imagec2_2{
     height: 102px;
     width:163px;
-    background-image: url(c2_2.jpg);
+    background-image: url("images/c2_2.jpg");
     margin: 10px;
     
     }
     .imagec2_3{
     height: 102px;
     width:163px;
-    background-image: url(c2_3.jpg);
+    background-image: url("images/c2_3.jpg");
     margin: 10px;
     
     }
     .imagec2_4{
     height: 102px;
     width:163px;
-    background-image: url(c2_4.jpg);
+    background-image: url("images/c2_4.jpg");
     margin: 10px;
     
     }
@@ -251,28 +251,28 @@ margin: 10px;
     
         height: 102px;
         width:163px;
-        background-image: url(c3_1.jpg);
+        background-image: url("images/c3_1.jpg");
         margin: 10px;}
         
         
         .imagec3_2{
         height: 102px;
         width:163px;
-        background-image: url(c3_2.jpg);
+        background-image: url("images/c3_2.jpg");
         margin: 10px;
         
         }
         .imagec3_3{
         height: 102px;
         width:163px;
-        background-image: url(c3_3.jpg);
+        background-image: url("images/c3_3.jpg");
         margin: 10px;
         
         }
         .imagec3_4{
         height: 102px;
         width:163px;
-        background-image: url(c3_4.jpg);
+        background-image: url("images/c3_4.jpg");
         margin: 10px;
         
         }
